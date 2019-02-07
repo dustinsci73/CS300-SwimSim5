@@ -4,8 +4,8 @@
 // Files:           Main.java, SwimSimulation.java, Fish.java, Food.java, Hook.java, SimObject.java
 // Course:          (CS300, Fall 2017)
 //
-// Author:          (Brennan Fife)
-// Email:           (bfife@wisc.edu)
+// Author:          (Dustin Li)
+// Email:           (dli284@wisc.edu)
 // Lecturer's Name: (Gary Dahl)
 //
 ///////////////////////////// CREDIT OUTSIDE HELP /////////////////////////////
